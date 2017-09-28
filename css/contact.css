@@ -1,0 +1,101 @@
+body {
+  height: 100vh;
+}
+
+/*HEADER STYLES*/
+
+.logo-img {
+  height: 70px;
+}
+
+.logo-text {
+  font-family: 'Satisfy', cursive;
+  /*orange family color*/
+  color:#f2767e;
+  margin:0px;
+}
+
+.hero-text {
+color:#fff;
+font-weight:400;
+font-size:
+}
+
+.jumbotron {
+  background-image:url("../img/hero.jpg");
+  background-size:cover;
+  background-position:center;
+  height:450px;
+}
+
+.gray{
+  background-color:#edf1f4;
+  padding:15px 15px 0 15px;
+}
+
+.outer-thumb-adjust{
+  padding-bottom:-15px;
+}
+
+.product-image {
+  padding: 0 7.5px 0 7.5px;
+}
+
+.flex-header {
+  displey:flex;
+  justify-content:space-between;
+  align-items:flex-end;
+}
+
+.logo-wrappeer {
+  width:50%;
+}
+
+/* content */
+h3 {
+  margin-top:0px;
+}
+.doctors {
+
+}
+
+iframe {
+  height: 300px;
+  width: 400px;
+
+}
+
+/* footer styles */
+a, a:hover {
+  text-decoration:none;
+}
+footer {
+  height:150px;
+  background-color:#333;
+  padding-top: 16px;
+}
+
+footer img.logo-img{
+  width: 90px;
+}
+
+footer a, footer a:hover {
+  color: #bfc0c1;
+}
+
+.address-border {
+  border-left: solid 1px #505050;
+  border-right: solid 1px #505050;
+}
+
+address, address>a:hover {
+  color: #bfc0c1;
+}
+
+.dis-block {
+  display:block;
+}
+
+.copyright {
+  color: #505050;
+}
